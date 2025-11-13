@@ -34,8 +34,10 @@ Monitor Execution In Jobs, you can monitor the status (Pending, Running, Success
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/a56512dd-1cab-419c-b693-dee37cc285e7" />
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/0623c2b8-5223-47be-9648-a18a0e4e3990" />
 <img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/a8bca346-f95a-42f6-a4d0-f1f47c9591c5" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8016a52b-df94-4b74-847d-c3be90c8309e" />
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/d48bb0e7-c233-4914-b908-73f6f55d7ae5" />
 <img width="219" height="182" alt="image" src="https://github.com/user-attachments/assets/37db2100-939e-4a0f-8167-19a4f503aa13" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/aa2e37ba-d0eb-48c6-ab26-9fd55366568f" />
+
 
 # RESULT:
 The automation process was successfully published, triggered, and executed as an unattended job using UiPath Orchestrator. This setup ensures automation can run without human presence at scheduled times.
